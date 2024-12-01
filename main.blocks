@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id=":9jzsc6,(n~(D@n[yB$0" x="0" y="0"></block><block type="device_forever" id="g^dKQSYFbrrC+z5//_Y/" x="94" y="278"><statement name="HANDLER"><block type="device_show_leds" id="7$Kv8N.%#7(DVbLDj^?K"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_rest" id="W]*c1[Ui:T=CT2=ao*9}"><value name="duration"><shadow type="device_beat" id="LgC*$;fM*=8cKrJ3F`ku"><field name="fraction">BeatFraction.Quarter</field></shadow></value><next><block type="device_clear_display" id="mp{(-h,g{)90vr(CJM$7"><next><block type="device_rest" id="N%9$%3H=j$Q2MdeA-Wuu"><value name="duration"><shadow type="device_beat" id="vY_E]d)=$A/(/=4*~%TH"><field name="fraction">BeatFraction.Sixteenth</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
